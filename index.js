@@ -1,6 +1,6 @@
 const bot = require('node-telegram-bot-api');
 const { exec } = require('child_process');
-const token = "7496093857:AAGtgIBt0Q8Zrc_abe8SO5b1Wc2huVNjqG4";
+const token = "7496093857:AAGD08QQXClklFROb39LVB-strLFAGKdUf8";
 const op = {
   polling: true,
 };
